@@ -40,7 +40,7 @@ public class Screen extends JPanel{
     screen.pack();
 
 
-    //  Creates and sets the icon in the top right
+    //  Creates and sets the icon in the top left
     ImageIcon logoicon = new ImageIcon("GlitchPhone.png"); 
     Image logo = logoicon.getImage();
     screen.setIconImage(logo);
